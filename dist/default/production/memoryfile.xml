@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\DMA_LED_MATRIX_GAME_CAN.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>21917</used>
+      <free>43619</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>2372</used>
+      <free>1724</free>
+    </memory>
+  </executable>
+</project>
